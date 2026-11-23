@@ -1,0 +1,9 @@
+--title "Hangman CLI Documentation"
+--readme README.md
+--output-dir doc
+--protected
+--no-private
+--hide-void-return
+lib/**/*.rb
+-
+README.md
