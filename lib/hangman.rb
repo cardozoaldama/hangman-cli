@@ -15,3 +15,4 @@ end
 require_relative 'hangman/version'
 require_relative 'hangman/dictionary'
 require_relative 'hangman/game'
+require_relative 'hangman/save_store'
