@@ -1,0 +1,18 @@
+easy:
+  label: Easy
+  min_length: 5
+  max_length: 7
+  max_attempts: 8
+  max_hints: 2
+normal:
+  label: Normal
+  min_length: 5
+  max_length: 10
+  max_attempts: 6
+  max_hints: 1
+hard:
+  label: Hard
+  min_length: 9
+  max_length: 15
+  max_attempts: 4
+  max_hints: 0
